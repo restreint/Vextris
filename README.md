@@ -55,7 +55,7 @@ This is a feature-packed selfbot built to connect with your **Discord user token
 - **`dnslookup <domain>`** — Retrieves DNS info of a domain.
 - **`whois <domain>`** — WHOIS query of a domain.
 - **`pinghost <IP/domain>`** — Pings a host and shows response time.
-- **`portscan <IP>`** — Scans open ports on an IP (educational use).
+- **`portscan <IP>`** — Scans open ports on an IP .
 
 ## 🗃️ Data Utilities
 - **`encode <text>`** — Encodes text to Base64.
