@@ -114,7 +114,7 @@ This is a feature-packed selfbot built to connect with your **Discord user token
 - **`autorole <role>`** — Auto-assigns a role to new users.
 
 ## 💣 Raid / Nuke
-- **`nuke`** — Deletes and recreates a channel (testing only).
+- **`nuke`** — Deletes and recreates a channel.
 - **`spam <message>`** — Sends repeated messages.
 - **`dmall <message>`** — Direct messages all server members.
 - **`webhookspam <url> <message>`** — Spams a webhook.
@@ -126,8 +126,8 @@ This is a feature-packed selfbot built to connect with your **Discord user token
 - **`shell <cmd>`** — Runs shell commands (owner only).
 - **`logs`** — Displays bot logs.
 - **`purgefiles`** — Deletes temporary/cache files.
-- **`purgelogs <user>`** — Clears logs of a specific user.
-- **`blacklist <user>`** — Blacklists a user from using commands.
+- **`purgelogs <user>`** — Clears logs of a specific user (owner only).
+- **`blacklist <user>`** — Blacklists a user from using commands (owner only).
 
 ---
 
